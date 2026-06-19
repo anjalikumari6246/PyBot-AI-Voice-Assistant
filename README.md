@@ -11,6 +11,10 @@ PyBot is an AI-powered desktop voice assistant built using Python, Tkinter, and 
 * Conversation history storage
 * Multithreaded architecture for responsive interactions
 
+## Application Preview
+
+![PyBot Screenshot](pybotSS.png)
+
 ## Technologies Used
 
 * Python
